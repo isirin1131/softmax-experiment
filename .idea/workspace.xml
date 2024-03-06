@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfe73ed-7e4f-42f5-8760-c0d6b0e36f4a" name="Changes" comment="project created">
-      <change afterPath="$PROJECT_DIR$/theory.md" afterDir="false" />
+    <list default="true" id="acfe73ed-7e4f-42f5-8760-c0d6b0e36f4a" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/Animator/test(have Animate).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animator/test(no Animate).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[main]heavy code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset download and view/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how fast loading data to memory/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,15 +17,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dAkrbHHhyubtVvaxKUodrAFQuH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,11 +41,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.test(have Animate)(use tensorboard).executor": "Run",
+    "Python.test(no Animate).executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "editor.preferences.pyOptions"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\newDLprj\softmax-experiment" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,11 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709458948142</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <option name="closed" value="true" />
+      <created>1709475158796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709475158796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="project created" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>
