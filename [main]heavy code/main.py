@@ -31,12 +31,6 @@ train_iter = data.DataLoader(dataset=fashion_mnist_train, batch_size=batch_size,
 # print(x.shape, y.shape)
 # print(x[0][0].reshape((-1)).shape) # torch.Size([784])
 
-len_input = 784
-len_output = 10
-
-model_W = torch.normal(mean=0, std=0.01, size=(len_input, len_output), requires_grad=True)
-model_B = torch.zeros(size=(len_output,), requires_grad=True)
-
 
 ''' 测试一下向量除以标量张量的广播机制
 o = torch.ones(size=(10,))
@@ -67,10 +61,15 @@ def net(X, W, b) : # 每行是每个 X 的预测值 o
 def crossentropy_loss(hat_y, y) :
     return - torch.log(hat_y[range(len(hat_y)), y])
 
+len_input = 784
+len_output = 10
+
+model_W = torch.normal(mean=0, std=0.01, size=(len_input, len_output), requires_grad=True)
+model_B = torch.zeros(size=(len_output,), requires_grad=True)
+
 ''' 对 argmax 的实验
 Test = torch.tensor([[0.1, 0.2, 0.3], [3, 2, 1], [10, 100, 0.01]])
 Test_2 = Test.argmax(dim=1, keepdim=True)
 Test_2 = torch.exp(Test_2)
 print(torch.mm(Test, Test_2))
 '''
-

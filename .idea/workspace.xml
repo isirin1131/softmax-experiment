@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfe73ed-7e4f-42f5-8760-c0d6b0e36f4a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/Animator/test(have Animate).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animator/test(no Animate).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[main]heavy code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset download and view/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/how fast loading data to memory/test.py" afterDir="false" />
+    <list default="true" id="acfe73ed-7e4f-42f5-8760-c0d6b0e36f4a" name="Changes" comment="updated，kankan">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/softmax-experiment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/softmax-experiment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[main]heavy code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/[main]heavy code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset download and view/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset download and view/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/how fast loading data to memory/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/how fast loading data to memory/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory.md" beforeDir="false" afterPath="$PROJECT_DIR$/theory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualization/test(have Animate).py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization/test(have Animate).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualization/test(no Animate).py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization/test(no Animate).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.pyOptions"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,12 +107,30 @@
       <option name="project" value="LOCAL" />
       <updated>1709475158796</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated，课好满啊">
+      <option name="closed" value="true" />
+      <created>1709734185905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709734185906</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated，课好满啊">
+      <option name="closed" value="true" />
+      <created>1709734216035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709734216035</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project created" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="updated，课好满啊" />
+    <MESSAGE value="updated，kankan" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated，kankan" />
   </component>
 </project>
